@@ -1,5 +1,4 @@
 # What 22 Years of Data Reveal About Bipolar Disorder Risk
-Assessing the Ongoing Risk of Mood Disorders in Individuals with Bipolar Disorder in the Family History
 
 This write-up summarizes key findings from my published research in the *Journal of the American Academy of Child & Adolescent Psychiatry*. Please note that it is tailored for an industry audience, so certain details and nuances may be omitted. For a comprehensive understanding of the study, I encourage you to read the full paper, available [here](https://www.sciencedirect.com/science/article/pii/S0890856724003083).
 
