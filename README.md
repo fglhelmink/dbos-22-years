@@ -1,12 +1,13 @@
 # What 22 Years of Data Reveal About Bipolar Disorder Risk
 Assessing the Ongoing Risk of Mood Disorders in Individuals with Bipolar Disorder in the Family History
 
+This write-up summarizes key findings from my published research in the *Journal of the American Academy of Child & Adolescent Psychiatry*. Please note that it is tailored for an industry audience, so certain details and nuances may be omitted. For a comprehensive understanding of the study, I encourage you to read the full paper, available [here](https://www.sciencedirect.com/science/article/pii/S0890856724003083).
+
+**Reference:** Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond the window of risk? The Dutch Bipolar Offspring Study: 22-year follow-up. Journal of the American Academy of Child and Adolescent Psychiatry. doi:10.1016/j.jaac.2024.05.024
+
+
 # Background and Overview
 Understanding risk factors for severe mental health disorders is critical for early intervention and improved outcomes. For this study, we followed individuals at familial risk for bipolar disorder over a 22-year period — from adolescence into middle adulthood, tracking the progression of mood disorders and psychiatric symptoms. By analyzing long-term trends in mental health outcomes, we provide key insights into when individuals are most vulnerable and how risk evolves over time.
-
-*This write-up summarizes key findings from my published research in the Journal of the American Academy of Child & Adolescent Psychiatry. Please note that it is tailored for an industry audience, so certain details and nuances may be omitted. For a comprehensive understanding of the study, I encourage you to read the full paper, available here.*
-
-*Reference: Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond the window of risk? The Dutch Bipolar Offspring Study: 22-year follow-up. Journal of the American Academy of Child and Adolescent Psychiatry. doi:10.1016/j.jaac.2024.05.024*
 
 # Data Structure Overview
 The data structure for this project is designed to support longitudinal analysis of offspring at risk for bipolar disorder, with five waves of assessment collected over 22 years. The key components of the data are as follows:
