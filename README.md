@@ -11,7 +11,7 @@ Reference: Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond t
 # Data Structure Overview
 The data structure for this project is designed to support longitudinal analysis of offspring at risk for bipolar disorder, with five waves of assessment collected over 22 years. The key components of the data are as follows:
 
-#### Cohort 
+#### Cohort: The Dutch Bipolar Offspring Study
 140 offspring of 86 parents with bipolar I (BD-I) or bipolar II (BD-II) disorder, ages 12-21 at baseline. A total of 100 offspring from 69 families still participated after 22 years (72% retention rate). At the 22-year follow-up, offspring had a mean age of 38 years (range 33-43 years) and 54% was female.  
 
 #### Mood Episodes
@@ -20,6 +20,7 @@ Collected data includes information on lifetime prevalence of psychiatric disord
 These data allow us to examine lifetime and point prevalence, mood disorder trends across age, how one psychiatric episode can lead to another, and comorbidity.
 
 
+![alt text](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/dbos-design.png?raw=true)
 
 
 
