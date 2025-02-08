@@ -62,6 +62,8 @@ Point prevalence shows the amount of individuals having a psychiatric disorder a
 - Among participants who developed bipolar disorder, 88% experienced a depressive episode first, with an average of 5.3 years between the first depressive episode and the onset of bipolar disorder symptoms. 
 - A total of 72% of those with major depressive disorder had prior psychiatric episodes, with one-third experiencing minor mood episodes before developing major depressive disorder.
 
+![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+
 ## 5 | High Comorbidity: The Challenge of Multiple Diagnoses
 Comorbidity means having more than one illness or condition at the same time.
 
