@@ -4,21 +4,21 @@ This write-up summarizes key findings from my published research in the *Journal
 
 **Reference:** Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond the window of risk? The Dutch Bipolar Offspring Study: 22-year follow-up. Journal of the American Academy of Child and Adolescent Psychiatry. doi:10.1016/j.jaac.2024.05.024
 
-Table of Content
+### Table of Content
 - [Background and Overview](#background-and-overview)
-- Data Structure Overview
-- Executive Summary
-- Insights Deep Dive
-- - 1 | Prevalence of Lifetime Psychiatric Disorders
-  - 2 | Increased Risk for Mood Disorders, But No New Bipolar Disorder Onsets
-  - 3 | The Young Adult Peak: A Critical Period for Intervention
-  - 4 | A Hierarchical Pathway: From Depression to Bipolar Disorder
-  - 5 | High Comorbidity: The Challenge of Multiple Diagnoses
-- Recommendations
-- - Early Screening
-  - Long-Term Support
-  - Age-Specific Screening and Care
-  - Integrated Care
+- [Data Structure Overview](#data-structure-overview)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [1 | Prevalence of Lifetime Psychiatric Disorders](#1--prevalence-of-lifetime-psychiatric-disorders)
+  - [2 | Increased Risk for Mood Disorders, But No New Bipolar Disorder Onsets](#2--increased-risk-for-mood-disorders-but-no-new-bipolar-disorder-onsets)
+  - [3 | The Young Adult Peak: A Critical Period for Intervention](#3--the-young-adult-peak-a-critical-period-for-intervention)
+  - [4 | A Hierarchical Pathway: From Depression to Bipolar Disorder](#4--a-hierarchical-pathway-from-depression-to-bipolar-disorder)
+  - [5 | High Comorbidity: The Challenge of Multiple Diagnoses](#5--high-comorbidity-the-challenge-of-multiple-diagnoses)
+- [Recommendations](#recommendations)
+  - [Early Screening](#early-screening)
+  - [Long-Term Support](#long-term-support)
+  - [Age-Specific Screening and Care](#age-specific-screening-and-care)
+  - [Integrated Care](#integrated-care)
 
 # Background and Overview
 Understanding risk factors for severe mental health disorders is critical for early intervention and improved outcomes. For this study, we followed individuals at familial risk for bipolar disorder over a 22-year period — from adolescence into middle adulthood, tracking the progression of mood disorders and psychiatric symptoms. By analyzing long-term trends in mental health outcomes, we provide key insights into when individuals are most vulnerable and how risk evolves over time.
@@ -104,47 +104,47 @@ Comorbidity means having more than one illness or condition at the same time.
 
 # Recommendations
 
-<ins> Early Screening </ins>
+### Focus on Early Screening of High-Risk Individuals
 
-**Early Identification of High-Risk Depressive Episodes**
+###### Identify High-Risk Depressive Episodes Early
 - Since 88% of individuals who developed bipolar disorder first experienced depression, clinicians should closely monitor depressive episodes in individuals at familial risk for signs of bipolar conversion.
 - Screening for subtle bipolar symptoms (e.g., subthreshold hypomanic episodes, mood instability) during early depressive episodes could enable timelier interventions.
 
-**Reduce Delays in Bipolar Diagnosis & Treatment**
+###### Reduce Delays in Bipolar Diagnosis & Treatment
 - With an average of 5.3 years between first depression and bipolar onset, this window presents a key opportunity for proactive monitoring and intervention.
 - Instead of a wait-and-see approach, mood disorder specialists should implement structured follow-ups for individuals with early-onset depression, particularly those with a family history of bipolar disorder.  
 
 <br/>
 
-<ins> Long-Term Support </ins>
+### Offer Long-Term Support Over Short-Term Interventions
 
-**Strengthen Long-Term Support for Mood Disorders**
+###### Increase Long-Term Support for Mood Disorders
 - With mood disorders increasing significantly over time (from 54% to 65%) and major depressive disorder doubling, mental health interventions should emphasize long-term relapse prevention, coping strategies, and access to continuous care.
 - This highlights the need for sustained psychological and psychiatric support rather than short-term interventions.
 
 <br/>
 
-<ins> Age-Specific Screening and Care </ins>
+### Introduce Age-Specific Screening and Care
 
-**Refocus Screening and Prevention Efforts Beyond Bipolar Disorder**
+###### Refocus Screening and Prevention Efforts Beyond Bipolar Disorder
 - Since no new bipolar disorder cases emerged after age 28, screening efforts should prioritize early adulthood as a critical window for identifying and managing new cases.
 - After this period, mental health support should shift focus to preventing relapse and managing recurring episodes rather than detecting new bipolar onsets.
 
-**Develop Age-Specific Interventions**
+###### Develop Age-Specific Interventions
 - Since different life stages come with unique stressors, mental health programs should be tailored to the needs of young adults (academic/career stress, identity formation) and those in their 30s (work-life balance, long-term stability).
 - Digital mental health tools, flexible therapy options, and peer-led programs could be effective ways to reach young adults.
 
 <br/>
 
-<ins> Integrated Care </ins>
+### Increase Integrated Care Incentives
 
-**Adopt Integrated Treatment Approaches**
+###### Adopt Integrated Treatment Approaches
 - Since 75% of individuals with mood disorders also have at least one additional diagnosis, treatment should move beyond single-disorder models toward integrated care that addresses multiple conditions simultaneously.
 
 - Collaborative care models—where psychiatrists, psychologists, and addiction specialists work together—can provide more effective, coordinated treatment.
 
 
-**Expand Access to Dual-Focused Therapies**
+###### Expand Access to Dual-Focused Therapies
 - Many existing treatment programs focus on either mood disorders, anxiety, or substance use, rather than addressing them together.
 
 - Expanding access to evidence-based therapies like Cognitive Behavior Therapy for anxiety-mood comorbidity and integrated substance use treatment could lead to better outcomes and lower relapse rates.
