@@ -57,7 +57,7 @@ This study offers a rare, longitudinal glimpse into the mental health outcomes o
 Looking at lifetime prevalence of psychiatric disorders in offspring of parents with bipolar disorder in middle adulthood (mean age 38 years) wil help us understand the lifetime risk that comes with intergenerational transmission. 
 
 - In total, 80% of the offspring developed any psychiatric disorder throughout their lives. 
-- The risk for any mood disorder was also high, with 65% having experienced at least one mood episode during their lives. This is at least 2 times the risk compared to the general Dutch population. [1]
+- The risk for any mood disorder was also high, with 65% having experienced at least one mood episode during their lives. This is at least 2 times the risk compared to the general Dutch population.
 - Over one third of offspring (36%) developed a major depressive disorder when reaching middle adulthood.
 - Bipolar disorder was with its 11% prevalence not the most present in absolute terms, but the risk in the general population is 1-3%. This suggests that being at familial risk for bipolar disorder means the risk for developing bipolar disorder is three to ten times as high. 
 
@@ -151,5 +151,8 @@ Comorbidity means having more than one illness or condition at the same time.
 
 - Expanding access to evidence-based therapies like Cognitive Behavior Therapy for anxiety-mood comorbidity and integrated substance use treatment could lead to better outcomes and lower relapse rates.
 
-
+# Relevant Links
+- Check out the published paper [here](https://www.sciencedirect.com/science/article/pii/S0890856724003083).  
+- Find more data projects in my [Data Lab](www.fglhelmink.odoo.com).  
+- Go to the [top of the page](#what-22-years-of-data-reveal-about-bipolar-disorder-risk).
 
