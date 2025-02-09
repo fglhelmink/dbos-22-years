@@ -21,7 +21,7 @@ These data allow us to examine lifetime and point prevalence, mood disorder tren
 
 
 ![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/dbos-design.png?raw=true)
-* Longitudinal design of the Dutch Bipolar Offspring Study *
+*Longitudinal design of the Dutch Bipolar Offspring Study*
 
 # Executive Summary
 Individuals at familial risk of bipolar disorder are at significantly higher risk for psychiatric disorders, with 80% experiencing one in their lifetime, and 65% developing mood disorders—double the risk of the general population. The period between ages 20-25 shows the highest prevalence of psychiatric distress, highlighting a window of risk. This is strengthened by the lack of new bipolar disorder onsets after age 28. As mood disorders become more severe and recurrent with age, long-term support is needed to prevent further impairment. 
@@ -44,7 +44,7 @@ Looking at lifetime prevalence of psychiatric disorders in offspring of parents 
 - Bipolar disorder was with its 11% prevalence not the most present in absolute terms, but the risk in the general population is 1-3%. This suggests that being at familial risk for bipolar disorder means the risk for developing bipolar disorder is three to ten times as high. 
 
 ![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/prevalence.png?raw=true)
-* Prevalence of lifetime psychiatric disorders at mean age 38 years *
+*Prevalence of lifetime psychiatric disorders at mean age 38 years*
 
 ## 2 | Increased Risk for Mood Disorders, But No New Bipolar Disorder Onsets
 
@@ -52,7 +52,8 @@ Looking at lifetime prevalence of psychiatric disorders in offspring of parents 
 - Mood disorders became more prevalent over time, increasing from 54% to 65%, with major depressive disorder more than doubling (17% to 36%) since age 28, the time the fourth measurement took place.
 - Adults who grew up with a parent with bipolar disorder face a heightened risk of mental health challenges, with new onset giving way to recurring and more severe episodes over time.
 
-![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+![Cumulative rates of psychopathology](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/age-of-onset.jpg?raw=true)
+*Cumulative rates of age of onset for psychiatric disorders*
 
 ## 3 | The Young Adult Peak: A Critical Period for Intervention
 Point prevalence shows the amount of individuals having a psychiatric disorder at any given point in time. In this case, at any given age.
@@ -60,13 +61,18 @@ Point prevalence shows the amount of individuals having a psychiatric disorder a
 - Point prevalence of any psychiatric disorder peaked between ages 20 and 25 (38%-46%) and remained substantial after age 30 (29%-35%). 
 - This supports that young adulthood is a particularly vulnerable period for psychiatric distress, even among individuals who do not go on to develop severe mental illnesses.
 
-![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+![Point prevalence of any psychiatric disorder across age](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/point-prevalence.jpg?raw=true)
+*Age-specific prevalence of any present psychiatric disorder*
 
 ## 4 | A Hierarchical Pathway: From Depression to Bipolar Disorder
 - Among participants who developed bipolar disorder, 88% experienced a depressive episode first, with an average of 5.3 years between the first depressive episode and the onset of bipolar disorder symptoms. 
 - A total of 72% of those with major depressive disorder had prior psychiatric episodes, with one-third experiencing minor mood episodes before developing major depressive disorder.
 
-![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+![hierarchical pathway](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+
+*Hierarchical Flow of Psychopathology From Baseline to 22-Year Follow-up*
+
+***Note:** Darker-colored blocks contain the total number for the respective psychopathology group. Lighter-colored blocks represent the number of dropouts that belonged to the respective psychopathology group at the respective assessment. Flow lines between the blocks indicate movement between psychopathology groups from time point T to time point T+1. The figure is a hierarchical reflection of psychopathology development, and participants belong to only one psychopathology group at one time point. In case of comorbidity, the highest in hierarchy was represented in this figure.*
 
 ## 5 | High Comorbidity: The Challenge of Multiple Diagnoses
 Comorbidity means having more than one illness or condition at the same time.
