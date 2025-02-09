@@ -15,10 +15,10 @@ This write-up summarizes key findings from my published research in the *Journal
   - [4 | A Hierarchical Pathway: From Depression to Bipolar Disorder](#4--a-hierarchical-pathway-from-depression-to-bipolar-disorder)
   - [5 | High Comorbidity: The Challenge of Multiple Diagnoses](#5--high-comorbidity-the-challenge-of-multiple-diagnoses)
 - [Recommendations](#recommendations)
-  - [Early Screening](#early-screening)
-  - [Long-Term Support](#long-term-support)
-  - [Age-Specific Screening and Care](#age-specific-screening-and-care)
-  - [Integrated Care](#integrated-care)
+  - [Focus on Early Screening of High-Risk Individuals](#focus-on-early-screening-of-high-risk-individuals)
+  - [Offer Long-Term Support Over Short-Term Interventions](#offer-long-term-support-over-short-term-interventions)
+  - [Introduce Age-Specific Screening and Care](#introduce-age-specific-screening-and-care)
+  - [Stimulate Integrated Care Incentives](#stimulate-integrated-care-incentives)
 
 # Background and Overview
 Understanding risk factors for severe mental health disorders is critical for early intervention and improved outcomes. For this study, we followed individuals at familial risk for bipolar disorder over a 22-year period — from adolescence into middle adulthood, tracking the progression of mood disorders and psychiatric symptoms. By analyzing long-term trends in mental health outcomes, we provide key insights into when individuals are most vulnerable and how risk evolves over time.
@@ -136,7 +136,7 @@ Comorbidity means having more than one illness or condition at the same time.
 
 <br/>
 
-### Increase Integrated Care Incentives
+### Stimulate Integrated Care Incentives
 
 ###### Adopt Integrated Treatment Approaches
 - Since 75% of individuals with mood disorders also have at least one additional diagnosis, treatment should move beyond single-disorder models toward integrated care that addresses multiple conditions simultaneously.
