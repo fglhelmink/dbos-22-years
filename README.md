@@ -2,7 +2,7 @@
 
 This write-up summarizes key findings from my published research in the *Journal of the American Academy of Child & Adolescent Psychiatry*. Please note that it is tailored for an industry audience, so certain details and nuances may be omitted. For a comprehensive understanding of the study, I encourage you to read the full paper, available [here](https://www.sciencedirect.com/science/article/pii/S0890856724003083).
 
-**Reference:** Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond the window of risk? The Dutch Bipolar Offspring Study: 22-year follow-up. Journal of the American Academy of Child and Adolescent Psychiatry. doi:10.1016/j.jaac.2024.05.024
+**Reference:** Helmink, F. G. L., Mesman, E., & Hillegers, M. H. J. (2024). Beyond the window of risk? The Dutch Bipolar Offspring Study: 22-year follow-up. *Journal of the American Academy of Child and Adolescent Psychiatry.* doi:10.1016/j.jaac.2024.05.024
 
 ### Table of Content
 - [Background and Overview](#background-and-overview)
@@ -19,6 +19,8 @@ This write-up summarizes key findings from my published research in the *Journal
   - [Offer Long-Term Support Over Short-Term Interventions](#offer-long-term-support-over-short-term-interventions)
   - [Introduce Age-Specific Screening and Care](#introduce-age-specific-screening-and-care)
   - [Stimulate Integrated Care Incentives](#stimulate-integrated-care-incentives)
+
+
 
 # Background and Overview
 Understanding risk factors for severe mental health disorders is critical for early intervention and improved outcomes. For this study, we followed individuals at familial risk for bipolar disorder over a 22-year period — from adolescence into middle adulthood, tracking the progression of mood disorders and psychiatric symptoms. By analyzing long-term trends in mental health outcomes, we provide key insights into when individuals are most vulnerable and how risk evolves over time.
