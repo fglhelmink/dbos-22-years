@@ -153,6 +153,6 @@ Comorbidity means having more than one illness or condition at the same time.
 
 # Relevant Links
 - Check out the published paper [here](https://www.sciencedirect.com/science/article/pii/S0890856724003083).  
-- Find more data projects in my [Data Lab](www.fglhelmink.odoo.com).  
+- Find more data projects in my [Data Lab](https://fglhelmink.odoo.com/).  
 - Go to the [top of the page](#what-22-years-of-data-reveal-about-bipolar-disorder-risk).
 
