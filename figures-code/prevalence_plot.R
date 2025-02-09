@@ -32,7 +32,7 @@ data <- data.frame(
   bar_face= "plain"
 )
 
-#change the colours and fonts of the 
+#change the colours and fonts of the highlighted bars
 data$bar_clr[1] <- "#e7eb8b"
 data$bar_clr_text[1] <-"gray26"
 data$bar_clr[2] <- "#b7daee"
@@ -73,5 +73,5 @@ p1 <- ggplot(data,aes(x=fct_rev(disorder), y=percentage, fill=disorder)) +
 p1
 
 #save
-ggsave("p1.png", plot=p1, bg="white", width=20, height=10, units="in", dpi=300)
+ggsave("figures/prevalence_plot.png", plot=p1, bg="white", width=20, height=10, units="in", dpi=300)
 
