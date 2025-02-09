@@ -62,6 +62,9 @@ Point prevalence shows the amount of individuals having a psychiatric disorder a
 - This supports that young adulthood is a particularly vulnerable period for psychiatric distress, even among individuals who do not go on to develop severe mental illnesses.
 
 ![Point prevalence of any psychiatric disorder across age](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/point-prevalence.png?raw=true)
+
+<img src="https://github.com/fglhelmink/dbos-22-years/blob/main/figures/point-prevalence.png?raw=true" width="100" height="100">
+
 *Age-specific prevalence of any present psychiatric disorder*
 
 ## 4 | A Hierarchical Pathway: From Depression to Bipolar Disorder
