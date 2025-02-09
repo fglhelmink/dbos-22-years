@@ -52,11 +52,15 @@ Looking at lifetime prevalence of psychiatric disorders in offspring of parents 
 - Mood disorders became more prevalent over time, increasing from 54% to 65%, with major depressive disorder more than doubling (17% to 36%) since age 28, the time the fourth measurement took place.
 - Adults who grew up with a parent with bipolar disorder face a heightened risk of mental health challenges, with new onset giving way to recurring and more severe episodes over time.
 
+![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
+
 ## 3 | The Young Adult Peak: A Critical Period for Intervention
 Point prevalence shows the amount of individuals having a psychiatric disorder at any given point in time. In this case, at any given age.
 
 - Point prevalence of any psychiatric disorder peaked between ages 20 and 25 (38%-46%) and remained substantial after age 30 (29%-35%). 
 - This supports that young adulthood is a particularly vulnerable period for psychiatric distress, even among individuals who do not go on to develop severe mental illnesses.
+
+![design of the Dutch Bipolar Offspring Study](https://github.com/fglhelmink/dbos-22-years/blob/main/figures/hierarchy.jpg?raw=true)
 
 ## 4 | A Hierarchical Pathway: From Depression to Bipolar Disorder
 - Among participants who developed bipolar disorder, 88% experienced a depressive episode first, with an average of 5.3 years between the first depressive episode and the onset of bipolar disorder symptoms. 
